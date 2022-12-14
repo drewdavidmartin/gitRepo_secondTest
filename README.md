@@ -1,6 +1,6 @@
 # Git & Github Notes
 
-##Glossary
+## Glossary
 - Repository
 - Branch
 - commit
