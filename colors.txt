@@ -1,3 +1,14 @@
+ColorSpaces
+
+Human Perception:
+CIE 1931 XYZ (aka CIE 1931 color space)
+CIEUVW (aka CIE 1964 color space)
+
+Primaries - Additive:
 RGB = Red, Green, Blue
 Rainbow = Red, Orange, Yellow, Green, Cyan, Blue, Violet
+
+Primaries - Subtractive:
 CMYK = cyan, magenta, yellow, and key (black)
+
+https://en.wikipedia.org/wiki/List_of_color_spaces_and_their_uses
