@@ -1,2 +1,3 @@
 RGB = Red, Green, Blue
 Rainbow = Red, Orange, Yellow, Green, Cyan, Blue, Violet
+CMYK = cyan, magenta, yellow, and key (black)
