@@ -1,1 +1,2 @@
-RGB = Red, Green, Black
+RGB = Red, Green, Blue
+
